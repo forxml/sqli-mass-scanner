@@ -2,7 +2,7 @@
 
 ################################
 # github.com/tcpwrapped	       #	
-# By inciago (Tcpwrapped)      #
+# By 01008004 (Tcpwrapped)     #
 ################################
 
 error_reporting(0);
